@@ -40,3 +40,5 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-Plugin-green?style=for-the-badge)
 
 ![Streak](https://streak-stats.demolab.com?user=architdev01&theme=tokyonight)
+
+![snake gif](https://github.com/architdev01/architdev01/blob/output/github-contribution-grid-snake.svg)
