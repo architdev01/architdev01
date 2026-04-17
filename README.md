@@ -38,3 +38,5 @@
 * ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-orange?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Plugin-green?style=for-the-badge)
+
+![Streak](https://streak-stats.demolab.com?user=architdev01&theme=tokyonight)
