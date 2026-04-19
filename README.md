@@ -30,7 +30,8 @@
 | ⚔ PracticeCoreX           | PvP Practice Plugin       |
 | 🌐 DiscordSyncLeaderboard | Discord + Minecraft Sync  |
 | ☁ AetherDrop              | Custom Airdrop System     |
-| ☁ ChunkyX                 | Lag-Free And Hign TPS     |
+| 🌌 ChunkyX                 | Lag-Free And High TPS     |
+| 🌿 EcoShop GUI X          | Advanced GUI Shop     |
 ---
 
 ## 🛠 <span style="color:#FFD700">Tech Stack</span>
